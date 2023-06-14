@@ -35,9 +35,9 @@ In this project, we generate MNIST images using GANS archetitecture. We have gen
 * Create GIF of generated image in each epoch stage. 
 
 ## Generated image GIF
-<img src="https://github.com/bipulsimkhada/Image/blob/main/UNET/Training%20and%20masked.png">
+<img src="https://github.com/bipulsimkhada/GANs-MNIST/blob/main/Image/Generated%20image.gif">
 
 ## Generated image after 50 epochs
-<img src="https://github.com/bipulsimkhada/Image/blob/main/UNET/Training%20and%20masked.png">
+<img src="https://github.com/bipulsimkhada/GANs-MNIST/blob/main/Image/Generated%20image.png">
 
 
